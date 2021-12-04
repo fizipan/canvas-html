@@ -1,11 +1,12 @@
 # 🎨 Basic canvas in HTML 5
 
 ### 1. Object
+
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Object Canvas</summary>
   
-  - [x] Rectangle Object
-  - [x] Line Object
-  - [ ] Circle Object
+- [x] Rectangle Object
+- [x] Line Object
+- [ ] Circle Object
 </details>
 
