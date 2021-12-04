@@ -1,2 +1,6 @@
-# canvas-html
-🎨 Basic canvas in HTML 5
+# 🎨 Basic canvas in HTML 5
+
+### 1. Object
+- [x] Rectangle Object
+- [x] Line Object
+- [ ] Contact the media
