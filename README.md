@@ -7,6 +7,13 @@
   
 - [x] Rectangle Object
 - [x] Line Object
-- [ ] Circle Object
+- [x] Circle Object
 </details>
 
+### 1. Animation
+
+<details>
+  <summary>Animation Canvas</summary>
+  
+- [x] Add Animation 
+</details>
